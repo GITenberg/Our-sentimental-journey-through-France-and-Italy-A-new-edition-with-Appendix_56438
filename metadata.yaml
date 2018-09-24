@@ -1,0 +1,38 @@
+_repo: Our-sentimental-journey-through-France-and-Italy-A-new-edition-with-Appendix_56438
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pennell, Joseph
+    alias: Pennell, J. (Joseph)
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '33068'
+    url: http://www.gutenberg.org/2009/agents/33068
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Pennell
+  - agent_name: Pennell, Elizabeth Robins
+    alias: Pennell, E. R. (Elizabeth Robins)
+    birthdate: 1855
+    deathdate: 1936
+    gutenberg_agent_id: '25552'
+    url: http://www.gutenberg.org/2009/agents/25552
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
+description: ''
+gutenberg_issued: '2018-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56438'
+  lccn: '39006708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Cycling -- France'
+- !lcsh 'Bicycle touring'
+- !lcc 'DC'
+- GITenberg
+title: 'Our sentimental journey through France and Italy
+
+  A new edition with Appendix'
+url: http://www.gutenberg.org/ebooks/56438
