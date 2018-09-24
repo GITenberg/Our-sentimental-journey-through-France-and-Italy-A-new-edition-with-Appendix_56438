@@ -1,5 +1,8 @@
 _repo: Our-sentimental-journey-through-France-and-Italy-A-new-edition-with-Appendix_56438
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56438-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Pennell, Joseph
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25552
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Robins_Pennell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56438#Our-sentimental-journey-through-France-and-Italy-A-new-edition-with-Appendix
 gutenberg_issued: '2018-01-26'
 gutenberg_type: Text
 identifiers:
